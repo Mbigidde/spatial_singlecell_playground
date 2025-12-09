@@ -21,4 +21,13 @@ focused on single-cell and spatial omics.
 - I use **Kaggle Notebooks** for GPU and execution.
 - I then upload important notebooks here.
 
+## How to Follow My Work
+
+For each paper implementation, I will:
+
+1. Create a notebook in `notebooks/` named like `01_[paper_name].ipynb`.
+2. Write a short summary of the paper and the model structure.
+3. Implement the model step by step using PyTorch in the notebook.
+4. Move reusable code (models, training loops) into `src/` over time.
+
 
